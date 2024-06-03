@@ -71,10 +71,10 @@ WSGI_APPLICATION = 'back_end.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'pis4',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': '127.0.0.1',   
+        'NAME': 'aliy22086$default',
+        'USER': 'aliy22086',
+        'PASSWORD': '22086@supnum.mr22086@supnum.mr',
+        'HOST': 'aliy22086.mysql.pythonanywhere-services.com',   
         'PORT': '3306',        
         'OPTIONS': {
             'init_command': "SET NAMES 'utf8mb4' COLLATE 'utf8mb4_unicode_ci'"
